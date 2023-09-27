@@ -1,0 +1,5 @@
+com\nagarro\training\TShirtFinder.class
+com\nagarro\training\utils\UserInput.class
+com\nagarro\training\utils\CSVFileHandler.class
+com\nagarro\training\constants\Constants.class
+com\nagarro\training\models\TShirt.class

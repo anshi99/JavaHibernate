@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="createjar" name="TShirtsFinder">
+	<target name="createjar">
+		<jar jarfile="./target/TShirtFinder.jar" basedir="./target/classes">
+			<manifest>
+				<attribute name="Main-Class" value="com.nagarro.training.TShirtFinder" />
+			</manifest>
+		</jar>
+	</target>
+</project>
